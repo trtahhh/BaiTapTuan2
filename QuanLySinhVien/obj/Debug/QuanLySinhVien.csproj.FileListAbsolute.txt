@@ -1,0 +1,7 @@
+C:\Users\tuana\OneDrive\Documents\C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\tuana\OneDrive\Documents\C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\tuana\OneDrive\Documents\C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\tuana\OneDrive\Documents\C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\tuana\OneDrive\Documents\C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\tuana\OneDrive\Documents\C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\tuana\OneDrive\Documents\C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
