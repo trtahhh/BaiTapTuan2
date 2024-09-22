@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -26,16 +25,19 @@ namespace QuanLySinhVien
             this.age = age;
         }
 
-        public void input()
+        public void Input()
         {
-            Console.WriteLine("Nhập mã số: ");
-            Id = Console.Read();
-            Console.WriteLine("Nhập họ và tên: ");
+            Console.Write("Nhập mã số: ");
+            Id = int.Parse(Console.ReadLine());
+            Console.Write("Nhập họ và tên: ");
             Name = Console.ReadLine();
-            Console.WriteLine("Nhap tuổi: ");
-            Age = Console.Read();
+            Console.Write("Nhập tuổi: ");
+            Age = int.Parse(Console.ReadLine());
         }
 
-        public void output() { Console.WriteLine($"Mã số sinh viên: {Id}, \nHọ và tên: {Name}, \nTuổi: {Age}"); }
+        public void Output()
+        {
+            Console.WriteLine($"Mã số sinh viên: {Id}, \nHọ và tên: {Name}, \nTuổi: {Age}");
+        }
     }
 }
